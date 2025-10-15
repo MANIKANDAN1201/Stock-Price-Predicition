@@ -1,0 +1,37 @@
+{
+  "ticker": "AAPL",
+  "start_date": "2000-01-01",
+  "end_date": "2025-01-01",
+  "rows": 6289,
+  "columns": [
+    [
+      "Date",
+      ""
+    ],
+    [
+      "Close",
+      "AAPL"
+    ],
+    [
+      "High",
+      "AAPL"
+    ],
+    [
+      "Low",
+      "AAPL"
+    ],
+    [
+      "Open",
+      "AAPL"
+    ],
+    [
+      "Volume",
+      "AAPL"
+    ]
+  ],
+  "date_range": {
+    "min": "2000-01-03 00:00:00",
+    "max": "2024-12-31 00:00:00"
+  },
+  "saved_at": "20251013_190642"
+}

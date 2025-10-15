@@ -1,0 +1,16 @@
+{
+  "ticker": "AAPL",
+  "train_samples": 4326,
+  "val_samples": 1236,
+  "test_samples": 618,
+  "input_shape": [
+    4326,
+    60,
+    14
+  ],
+  "output_shape": [
+    4326,
+    30
+  ],
+  "split_at": "20251013_190642"
+}
